@@ -24,6 +24,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SubmitOrderTest2 extends BaseTest{
 	
+	//Automation Testing
 	@Test
 	public void ProductErrorValidation() throws IOException {
 		
